@@ -26,5 +26,4 @@ Baixar o DataFrame (Carros.csv), e executar o projeto
 ## Pré-requisitos
 pandas, matplotlib, seaborn, sklearn.model_selection(train_test_split), sklearn.linear_model(LinearRegression), sklearn.metrics(mean_squared_error, mean_absolute_error, r2_score), sklearn.tree (DecisionTreeRegressor).
 
-## Video Explicativo
 
